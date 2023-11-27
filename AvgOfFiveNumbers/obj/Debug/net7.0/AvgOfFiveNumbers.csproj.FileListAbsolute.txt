@@ -1,0 +1,14 @@
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\bin\Debug\net7.0\AvgOfFiveNumbers.exe
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\bin\Debug\net7.0\AvgOfFiveNumbers.deps.json
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\bin\Debug\net7.0\AvgOfFiveNumbers.runtimeconfig.json
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\bin\Debug\net7.0\AvgOfFiveNumbers.dll
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\bin\Debug\net7.0\AvgOfFiveNumbers.pdb
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\obj\Debug\net7.0\AvgOfFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\obj\Debug\net7.0\AvgOfFiveNumbers.AssemblyInfoInputs.cache
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\obj\Debug\net7.0\AvgOfFiveNumbers.AssemblyInfo.cs
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\obj\Debug\net7.0\AvgOfFiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\obj\Debug\net7.0\AvgOfFiveNumbers.dll
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\obj\Debug\net7.0\refint\AvgOfFiveNumbers.dll
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\obj\Debug\net7.0\AvgOfFiveNumbers.pdb
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\obj\Debug\net7.0\AvgOfFiveNumbers.genruntimeconfig.cache
+C:\Users\Zangura\source\repos\CSharpPlayground\AvgOfFiveNumbers\obj\Debug\net7.0\ref\AvgOfFiveNumbers.dll
