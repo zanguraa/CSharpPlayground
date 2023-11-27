@@ -7,7 +7,6 @@
             Console.WriteLine("Hello, Please enter phrase: ");
             var phrase = Console.ReadLine().Split(' ').ToArray();
             CharCounter(phrase);
-
         }
         public static void CharCounter(Array phrase)
         {
