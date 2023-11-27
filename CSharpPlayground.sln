@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumberFinder", "EvenNum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddsAndEvensCount", "OddsAndEvensCount\OddsAndEvensCount.csproj", "{AEBB9B75-60A6-475D-9DBE-BC31C8AA750B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayReverse", "ArrayReverse\ArrayReverse.csproj", "{CD290382-480E-4325-99BE-C4F22E2D0835}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AEBB9B75-60A6-475D-9DBE-BC31C8AA750B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEBB9B75-60A6-475D-9DBE-BC31C8AA750B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEBB9B75-60A6-475D-9DBE-BC31C8AA750B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD290382-480E-4325-99BE-C4F22E2D0835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD290382-480E-4325-99BE-C4F22E2D0835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD290382-480E-4325-99BE-C4F22E2D0835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD290382-480E-4325-99BE-C4F22E2D0835}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
