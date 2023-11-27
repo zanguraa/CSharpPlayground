@@ -7,7 +7,6 @@
             Console.WriteLine("This app can print array numbers recursive!\n ");
             int[] arr = { 1, 2, 3, 4, 5 };
             PrintArrayRecursive(arr);
-
         }
         static void PrintArrayRecursive(int[] arr, int n = 0)
         {

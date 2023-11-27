@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharCounter", "CharCounter\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveArrayPrinter", "RecursiveArrayPrinter\RecursiveArrayPrinter.csproj", "{F9E8D046-7F64-447E-9674-D32CEC4C8FF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{4497869A-9255-42E4-9DAB-8C4E1D20CB3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F9E8D046-7F64-447E-9674-D32CEC4C8FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9E8D046-7F64-447E-9674-D32CEC4C8FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9E8D046-7F64-447E-9674-D32CEC4C8FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4497869A-9255-42E4-9DAB-8C4E1D20CB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4497869A-9255-42E4-9DAB-8C4E1D20CB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4497869A-9255-42E4-9DAB-8C4E1D20CB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4497869A-9255-42E4-9DAB-8C4E1D20CB3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
