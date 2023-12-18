@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyArray", "CopyArray\Copy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqieElementPrinter", "UniqieElementPrinter\UniqieElementPrinter.csproj", "{20A684BE-406D-4ADD-AD85-B174EB68FBFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxNumberIndex", "FindMaxNumberIndex\FindMaxNumberIndex.csproj", "{8243A3E5-0351-4CCF-94AB-6B3781DA6420}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{20A684BE-406D-4ADD-AD85-B174EB68FBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20A684BE-406D-4ADD-AD85-B174EB68FBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20A684BE-406D-4ADD-AD85-B174EB68FBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8243A3E5-0351-4CCF-94AB-6B3781DA6420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8243A3E5-0351-4CCF-94AB-6B3781DA6420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8243A3E5-0351-4CCF-94AB-6B3781DA6420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8243A3E5-0351-4CCF-94AB-6B3781DA6420}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
