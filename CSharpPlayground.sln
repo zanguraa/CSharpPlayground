@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvgOfFiveNumbers", "AvgOfFiveNumbers\AvgOfFiveNumbers.csproj", "{AFA81C14-C129-4A6F-838B-842C4D70C23F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvgOfFiveNumbers", "AvgOfFiveNumbers\AvgOfFiveNumbers.csproj", "{AFA81C14-C129-4A6F-838B-842C4D70C23F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumberFinder", "EvenNumberFinder\EvenNumberFinder.csproj", "{2A7ED32B-B754-4E20-B9C4-3D7302F5DA06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenNumberFinder", "EvenNumberFinder\EvenNumberFinder.csproj", "{2A7ED32B-B754-4E20-B9C4-3D7302F5DA06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddsAndEvensCount", "OddsAndEvensCount\OddsAndEvensCount.csproj", "{AEBB9B75-60A6-475D-9DBE-BC31C8AA750B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddsAndEvensCount", "OddsAndEvensCount\OddsAndEvensCount.csproj", "{AEBB9B75-60A6-475D-9DBE-BC31C8AA750B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayReverse", "ArrayReverse\ArrayReverse.csproj", "{CD290382-480E-4325-99BE-C4F22E2D0835}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayReverse", "ArrayReverse\ArrayReverse.csproj", "{CD290382-480E-4325-99BE-C4F22E2D0835}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharCounter", "CharCounter\CharCounter.csproj", "{9E691429-C180-4EA8-9138-4B26C8001C41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharCounter", "CharCounter\CharCounter.csproj", "{9E691429-C180-4EA8-9138-4B26C8001C41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveArrayPrinter", "RecursiveArrayPrinter\RecursiveArrayPrinter.csproj", "{F9E8D046-7F64-447E-9674-D32CEC4C8FF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveArrayPrinter", "RecursiveArrayPrinter\RecursiveArrayPrinter.csproj", "{F9E8D046-7F64-447E-9674-D32CEC4C8FF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{4497869A-9255-42E4-9DAB-8C4E1D20CB3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{4497869A-9255-42E4-9DAB-8C4E1D20CB3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxInArray", "FindMaxInArray\FindMaxInArray.csproj", "{DEAF41E2-FCAD-4453-A8B8-E6343E4F4C04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{4497869A-9255-42E4-9DAB-8C4E1D20CB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4497869A-9255-42E4-9DAB-8C4E1D20CB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4497869A-9255-42E4-9DAB-8C4E1D20CB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEAF41E2-FCAD-4453-A8B8-E6343E4F4C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAF41E2-FCAD-4453-A8B8-E6343E4F4C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAF41E2-FCAD-4453-A8B8-E6343E4F4C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAF41E2-FCAD-4453-A8B8-E6343E4F4C04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
