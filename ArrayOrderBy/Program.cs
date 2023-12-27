@@ -7,8 +7,6 @@
             int[] numbers = { 1, 2, 3, 4, 5, 45, 3, 22, 43, 1, 0, 4 };
 
             OrderArray(numbers);
-
-
         }
 
         static void OrderArray(int[] numbers)
