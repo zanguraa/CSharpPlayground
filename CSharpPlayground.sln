@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetMiddleCharacter", "GetMi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDublicatesFromList", "RemoveDublicatesFromList\RemoveDublicatesFromList.csproj", "{EAD2D6B0-7212-455C-8FCC-9B3B55135C97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementSystem", "InventoryManagementSystem\InventoryManagementSystem.csproj", "{36CDCBC2-A1EC-4A78-9BE8-4E532A9FDE9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem", "InventoryManagementSystem\InventoryManagementSystem.csproj", "{36CDCBC2-A1EC-4A78-9BE8-4E532A9FDE9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsVowels", "ContainsVowels\ContainsVowels.csproj", "{B88A4A6E-906D-4D0A-9F79-3CB5641E966B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{36CDCBC2-A1EC-4A78-9BE8-4E532A9FDE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36CDCBC2-A1EC-4A78-9BE8-4E532A9FDE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36CDCBC2-A1EC-4A78-9BE8-4E532A9FDE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88A4A6E-906D-4D0A-9F79-3CB5641E966B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88A4A6E-906D-4D0A-9F79-3CB5641E966B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88A4A6E-906D-4D0A-9F79-3CB5641E966B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88A4A6E-906D-4D0A-9F79-3CB5641E966B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

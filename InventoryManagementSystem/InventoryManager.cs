@@ -22,7 +22,7 @@ namespace InventoryManagementSystem
             using (var connection = new SqlConnection(connectionString))
             {
                 connection.Open();
-                connection.Execute("INSERT INTO Products (Name, Price, Stock) VALUES (@ProductName, @Price, @Stock)", product);
+                connection.Execute("INSERT INTO Products (Name, Price, Stock) VALUES (@Name, @Price, @Stock)", product);
             }
         }
 
@@ -67,6 +67,15 @@ namespace InventoryManagementSystem
                 {
                     Console.WriteLine("Not enought stock available for the sale");
                 }
+            }
+        }
+
+        public void DeleteProduct(int productId)
+        {
+            using (var connection = new SqlConnection(connectionString))
+            {
+                connection.Open();
+                connection.Execute("DELETE FROM Products WHERE Id = @ProductId", new { ProductId = productId });
             }
         }
 
